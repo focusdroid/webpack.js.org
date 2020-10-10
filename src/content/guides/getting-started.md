@@ -250,7 +250,7 @@ module.exports = {
 现在，让我们通过新的配置文件再次执行构建：
 
 ``` bash
-npx webpack --config webpack.config.js
+npx webpack --config webpack.config.js  (window10中使用powershell使用后面命令编译 npx webpack --config .\webpack.config.js)
 
 ...
   Asset      Size  Chunks             Chunk Names
